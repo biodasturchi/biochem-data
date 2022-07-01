@@ -1,3 +1,3 @@
 ## Biochem data
 
-Bu bichem labaratoriyasi uchun maqolalar to'plami
+Bu biochem labaratoriyasi uchun maqolalar to'plami
